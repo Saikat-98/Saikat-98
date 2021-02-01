@@ -7,6 +7,6 @@ Some bulletpoints about me:
 - I’m currently working on Angular, React, TypeScript, SpringBoot, Docker, Kubernetes.
 - I'm currently solving the data structure and algorithm problems on [Algoexpert](https://www.algoexpert.io/questions) and [Leetcode](https://leetcode.com/problemset/all/)
 - I've previously worked as a SDE intern in [hyperDart](https://hyperdart.com). 
-- I’m looking to collaborate on open-source and  projects.
+- I’m looking to collaborate on open-source projects.
 - Ask me about anything, would love to connect.
-- How to reach me: [LinkedIn](https://www.linkedin.com/in/saikat-c-3b9878110/)
+- Feel free to reach me at [LinkedIn](https://www.linkedin.com/in/saikat-c-3b9878110/)
