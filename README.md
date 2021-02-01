@@ -1,6 +1,6 @@
 ### Hi! 👋, I'm Saikat!
 
-Hi, I'm Saikat Choudhury, a Full Stack Developer, who loves exploring different stuff, currently I'm a System Engineer Specialist at [Infosys](https://www.infosys.com), a React JS mentor at [UAceit](https://uaceit.com) and a mentor cum project admin at [DevScript Winter of Code](https://devscript.tech/woc/).
+Hi, I'm Saikat Choudhury, a Full Stack Developer, who loves exploring different stuff, currently I'm a System Engineer Specialist at [Infosys](https://www.infosys.com), a React JS mentor at [UAceit](https://uaceit.com) and a mentor-cum-project admin at [DevScript Winter of Code](https://devscript.tech/woc/).
 
 Some bulletpoints about me:
 
