@@ -1,6 +1,6 @@
 ### Hey there! 👋!
 
-I'm Saikat Choudhury, a Full Stack Developer, who loves exploring different stuff, currently I'm a System Engineer Specialist at [Infosys](https://www.infosys.com), a React JS mentor at [UAceit](https://uaceit.com).
+I'm Saikat Choudhury, a Full Stack Developer, who loves exploring different stuff, currently I'm a Digital Specialist Engineer at [Infosys](https://www.infosys.com), a React JS mentor at [UAceit](https://uaceit.com).
 
 Some bulletpoints about me:
 
