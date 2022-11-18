@@ -8,16 +8,16 @@
       alt="Twitter"
     />
   </a>
-  <a href="https://twitter.com/Saikat_c03">
-    <img
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-      alt="Twitter"
-    />
-  </a>
   <a href="https://www.linkedin.com/in/saikat-c-3b9878110/">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
+    />
+  </a>
+  <a href="https://twitter.com/Saikat_c03">
+    <img
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+      alt="Twitter"
     />
   </a>
   
