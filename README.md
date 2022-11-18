@@ -32,7 +32,6 @@ Some bulletpoints about me:
 - Feel free love to connect with me, check out all the [links](https://linktr.ee/saikat.choudhury).
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Saikat-98&show_icons=true&theme=dark" 
-         width="256" 
+    <img src="https://github-readme-stats.vercel.app/api?username=Saikat-98&show_icons=true&theme=dark"
          align="left"/>
 </div>
