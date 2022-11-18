@@ -31,10 +31,12 @@ Some bulletpoints about me:
 - I’m looking to collaborate on open-source projects.
 - Feel free love to connect with me, check out all the [links](https://linktr.ee/saikat.choudhury).
 
-<div align="center">
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=Saikat-98&show_icons=true&theme=dark"
          align="left"/>
-  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&layout=compact&theme=dark" 
+</div>
+
+<div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&layout=compact&theme=dark" 
          align="right"/>  
 </div>
