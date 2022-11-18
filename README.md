@@ -20,7 +20,9 @@
          align="right"/>
   </a>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=dark"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=dark"
+       width="256" 
+       align="right"/>  
 </div>
 
 I'm Saikat Choudhury, a Full Stack Developer, who loves exploring different stuff, currently I'm a Specialist Programmer at [Infosys](https://www.infosys.com), a React JS mentor at [UAceit](https://uaceit.com).
