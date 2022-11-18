@@ -36,7 +36,7 @@ Some bulletpoints about me:
          align="left"/>
 </div>
 
-<div>
+<div margin="20px 0px">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&layout=compact&theme=dark" 
          align="right"/>  
 </div>
