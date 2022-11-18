@@ -31,6 +31,10 @@ Some bulletpoints about me:
 - I’m looking to collaborate on open-source projects.
 - Feel free love to connect with me, check out all the [links](https://linktr.ee/saikat.choudhury).
 
+  <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=dark&layout=compact"/>
+  </div>
+
 <div>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -66,6 +70,4 @@ Some bulletpoints about me:
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   </div>
   
-  <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=dark&layout=compact"/>
-  </div>
+
