@@ -5,13 +5,31 @@
   <a href="mailto:saikat.choudhury.official@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Twitter"
+      alt="Gmail"
     />
   </a>
   <a href="https://www.linkedin.com/in/saikat-c-3b9878110/">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
+    />
+  </a>
+   <a href="https://linktr.ee/saikat.choudhury">
+    <img
+      src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"
+      alt="LinkTree"
+    />
+  </a>
+  <a href="https://dev.to/saikat98">
+    <img
+      src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"
+      alt="Dev.to"
+    />
+  </a>
+ <a href="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
+    <img
+      src="https://topmate.io/saikat"
+      alt="AMA"
     />
   </a>
   <a href="https://twitter.com/Saikat_c03">
@@ -36,7 +54,7 @@ Some bulletpoints about me:
 - I've previously worked as a SDE intern in [hyperDart](https://hyperdart.com). 
 - I've previously worked as a mentor cum project - admin at [DevScript Winter of Code](https://devscript.tech/woc/).
 - I’m looking to collaborate on open-source projects.
-- Feel free love to connect with me, check out all the [links](https://linktr.ee/saikat.choudhury).
+- Feel free love to connect with me.
 
 <div>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=Saikat-98&theme=dark&show_icons=true"/>
