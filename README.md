@@ -51,11 +51,11 @@ Some bulletpoints about me:
 - Feel free love to [connect](https://topmate.io/saikat) with me.
 
 <div>
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=Saikat-98&theme=dracula&show_icons=true"/>
+  <img width=500 src="https://github-readme-stats.vercel.app/api?username=Saikat-98&theme=dracula&show_icons=true&hide_border=true"/>
   <br/>  <br/>
-  <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=dracula"/>
+  <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true"/>
     <br/>  <br/>
-  <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=dracula&layout=compact"/>
+  <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=monokai&layout=compact&hide_border=true"/>
 </div>
   <br/>  <br/>
 <div>
