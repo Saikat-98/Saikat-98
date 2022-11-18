@@ -26,9 +26,9 @@
       alt="Dev.to"
     />
   </a>
- <a href="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
+ <a href="https://topmate.io/saikat">
     <img
-      src="https://topmate.io/saikat"
+      src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"
       alt="AMA"
     />
   </a>
