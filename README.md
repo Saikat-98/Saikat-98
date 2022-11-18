@@ -30,3 +30,9 @@ Some bulletpoints about me:
 - I've previously worked as a mentor cum project - admin at [DevScript Winter of Code](https://devscript.tech/woc/).
 - I’m looking to collaborate on open-source projects.
 - Feel free love to connect with me, check out all the [links](https://linktr.ee/saikat.choudhury).
+
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Saikat-98&show_icons=true&theme=dark" 
+         width="256" 
+         align="left"/>
+</div>
