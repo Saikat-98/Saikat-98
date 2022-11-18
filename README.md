@@ -65,3 +65,7 @@ Some bulletpoints about me:
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   </div>
+  
+  <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=dark&layout=compact"/>
+  </div>
