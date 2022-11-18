@@ -32,11 +32,11 @@ Some bulletpoints about me:
 - Feel free love to connect with me, check out all the [links](https://linktr.ee/saikat.choudhury).
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Saikat-98&show_icons=true"/>
-  <br/>  <br/>  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saikat-98&theme=dark&show_icons=true"/>
+  <br/>  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=dark&layout=compact"/>
 </div>
-  <br/>  <br/>  <br/>
+  <br/>  <br/>
 <div>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
