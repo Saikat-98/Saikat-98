@@ -33,7 +33,7 @@ Some bulletpoints about me:
 
 <div>
   <img margin=10 src="https://github-readme-stats.vercel.app/api?username=Saikat-98&show_icons=true"/>
-  <img margin=10 src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=dark&layout=compact"/>
+  <img margin=30 src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=dark&layout=compact"/>
 </div>
 
 <div>
