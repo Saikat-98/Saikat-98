@@ -19,6 +19,8 @@
          width="256" 
          align="right"/>
   </a>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=dark"/>  
 </div>
 
 I'm Saikat Choudhury, a Full Stack Developer, who loves exploring different stuff, currently I'm a Specialist Programmer at [Infosys](https://www.infosys.com), a React JS mentor at [UAceit](https://uaceit.com).
@@ -33,8 +35,4 @@ Some bulletpoints about me:
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Saikat-98&show_icons=true&theme=dark"/>
-</div>
-
-<div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=dark"/>  
 </div>
