@@ -34,5 +34,5 @@ Some bulletpoints about me:
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=dark"
        width="256" 
-       align="right"/>  
+       align="left"/>  
 </div>
