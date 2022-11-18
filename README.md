@@ -36,5 +36,5 @@ Some bulletpoints about me:
 </div>
 
 <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&layout=compact&theme=dark"/>  
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=dark"/>  
 </div>
