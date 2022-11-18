@@ -26,12 +26,6 @@
       alt="Dev.to"
     />
   </a>
- <a href="https://topmate.io/saikat">
-    <img
-      src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"
-      alt="AMA"
-    />
-  </a>
   <a href="https://twitter.com/Saikat_c03">
     <img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
@@ -54,7 +48,12 @@ Some bulletpoints about me:
 - I've previously worked as a SDE intern in [hyperDart](https://hyperdart.com). 
 - I've previously worked as a mentor cum project - admin at [DevScript Winter of Code](https://devscript.tech/woc/).
 - I’m looking to collaborate on open-source projects.
-- Feel free love to connect with me.
+- Feel free love to connect with me.  <a href="https://topmate.io/saikat">
+    <img
+      src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"
+      alt="AMA"
+    />
+  </a>
 
 <div>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=Saikat-98&theme=dark&show_icons=true"/>
