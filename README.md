@@ -60,12 +60,12 @@ Some bulletpoints about me:
   <br/>  <br/>
 <div>
  
- | <a href="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true">
- <img width=500 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true" alt="Github stats" />
- </a> | 
+ <a href="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true">
+  <img width=400 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true" alt="Github stats" />
+ </a>
  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true">
-  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true" alt="Github stats" />
- </a> |
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true" alt="Github stats" />
+ </a>
  
  
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
