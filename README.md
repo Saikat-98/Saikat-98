@@ -51,23 +51,17 @@ Some bulletpoints about me:
 - Feel free love to [connect](https://topmate.io/saikat) with me.
 
 <div>
+ <br/>  <br/>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=Saikat-98&theme=dracula&show_icons=true&hide_border=true"/>
   <br/>  <br/>
   <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true"/>
     <br/>  <br/>
   <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true"/>
 </div>
-  <br/>  <br/>
+
+<br/>  <br/>
+  
 <div>
- 
- <a href="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true">
-  <img width=450 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true" alt="Github stats" />
- </a>
- <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true">
-  <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true" alt="Github stats" />
- </a>
- 
- 
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
