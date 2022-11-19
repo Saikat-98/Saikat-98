@@ -61,10 +61,10 @@ Some bulletpoints about me:
 <div>
  
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true">
-  <img width=400 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true" alt="Github stats" />
+  <img width=450 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true" alt="Github stats" />
  </a>
  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true" alt="Github stats" />
+  <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true" alt="Github stats" />
  </a>
  
  
