@@ -40,6 +40,8 @@
   </a>
 </div>
 
+<br/>  <br/>
+
 I'm Saikat Choudhury, a Full Stack Developer, who loves exploring different stuff, currently I'm a Specialist Programmer at [Infosys](https://www.infosys.com), a React JS mentor at [UAceit](https://uaceit.com).
 
 Some bulletpoints about me:
@@ -49,7 +51,7 @@ Some bulletpoints about me:
 - I've previously worked as a mentor cum project - admin at [DevScript Winter of Code](https://devscript.tech/woc/).
 - I’m looking to collaborate on open-source projects.
 - Feel free love to [connect](https://topmate.io/saikat) with me.
-- 
+
 <div>
  <br/>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=Saikat-98&theme=dracula&show_icons=true&hide_border=true"/>
