@@ -1,11 +1,10 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
-<h1 align="center">Hi 👋, I'm Saikat Choudhury</h1>
-<h3 align="center">Full-Stack developer, tech-enthusiast and explorer</h3>
+<h3 align="center">Hi 👋, I'm Saikat Choudhury</h3>
+<h4 align="center">Full-Stack developer, tech-enthusiast and explorer</h4>
 
 <br/>
 <div align="left">
- 
   <a href="mailto:saikat.choudhury.official@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -41,6 +40,8 @@
 <br/>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
+<br/>
 
 I'm currently grabbing experiences as a Specialist Programmer at [Infosys](https://www.infosys.com) and as a React JS mentor at [UAceit](https://uaceit.com).
 
