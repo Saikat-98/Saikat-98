@@ -49,7 +49,7 @@ Some bulletpoints about me:
 - I've previously worked as a mentor cum project - admin at [DevScript Winter of Code](https://devscript.tech/woc/).
 - I’m looking to collaborate on open-source projects.
 - Feel free love to [connect](https://topmate.io/saikat) with me.
-<div>
+- 
 <div>
  <br/>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=Saikat-98&theme=dracula&show_icons=true&hide_border=true"/>
@@ -96,5 +96,3 @@ Some bulletpoints about me:
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
  </div>
-   </div>
-
