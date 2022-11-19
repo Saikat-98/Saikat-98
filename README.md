@@ -1,8 +1,9 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 <h1 align="center">Hi 👋, I'm Saikat Choudhury</h1>
-<h3 align="center">A Full-Stack developer</h3>
+<h3 align="center">A Full-Stack developer and a tech-enthusiast</h3>
 
+<br/>
 <div align="left">
  
   <a href="mailto:saikat.choudhury.official@gmail.com">
@@ -45,7 +46,8 @@
 
 <br/>
 
-I'm Saikat Choudhury, a Full Stack Developer, a tech-enthusiast, loves to explore different stuffs, currently grabbing experiences as a Specialist Programmer at [Infosys](https://www.infosys.com) and as a React JS mentor at [UAceit](https://uaceit.com).
+
+I'm currently grabbing experiences as a Specialist Programmer at [Infosys](https://www.infosys.com) and as a React JS mentor at [UAceit](https://uaceit.com).
 
 Some bulletpoints about me:
 
@@ -57,6 +59,7 @@ Some bulletpoints about me:
 
 <div>
  <br/>
+ <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=Saikat-98&theme=dracula&show_icons=true&hide_border=true"/>
   <br/>  <br/>
   <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true"/>
