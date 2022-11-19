@@ -37,11 +37,7 @@
     />
   </a>
   
-  <a target="_blank" href="https://app.daily.dev/Saikat">
-    <img src="https://api.daily.dev/devcards/e62924fd5807455791f6aff36a7bf54b.png?r=nww" 
-         width="300" 
-         align="right"/>
-  </a>
+  <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 </div>
 
 <br/>
@@ -57,10 +53,14 @@ Some bulletpoints about me:
 - I’m looking to collaborate on open-source projects.
 - Feel free love to [connect](https://topmate.io/saikat) with me.
 
+<a target="_blank" href="https://app.daily.dev/Saikat">
+    <img src="https://api.daily.dev/devcards/e62924fd5807455791f6aff36a7bf54b.png?r=nww" 
+         width="300" 
+         align="right"/>
+  </a>
 <div>
  <br/>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=Saikat-98&theme=dracula&show_icons=true&hide_border=true"/>
-   <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
   <br/>  <br/>
    <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true"/>
     <br/>  <br/>
