@@ -60,7 +60,7 @@ Some bulletpoints about me:
 <div>
  <br/>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=Saikat-98&theme=dracula&show_icons=true&hide_border=true"/>
-   <img align="right" alt="Coding" width="500" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+   <img align="right" alt="Coding" width="450" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
   <br/>  <br/>
    <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true"/>
     <br/>  <br/>
