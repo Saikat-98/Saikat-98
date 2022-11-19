@@ -1,7 +1,7 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 <h1 align="center">Hi 👋, I'm Saikat Choudhury</h1>
-<h3 align="center">A Full-Stack developer and a tech-enthusiast</h3>
+<h3 align="center">A Full-Stack developer, a tech-enthusiast and a mentor</h3>
 
 <br/>
 <div align="left">
