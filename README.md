@@ -1,6 +1,6 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
-<h1 align="center">Hey there! 👋, I'm Saikat Choudhury</h1>
+<h1 align="center">Hi 👋, I'm Saikat Choudhury</h1>
 <h3 align="center">A Full-Stack developer</h3>
 
 <div align="left">
