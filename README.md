@@ -4,7 +4,7 @@
 <h3 align="center">Full-Stack developer, tech-enthusiast and explorer</h3>
 
 <br/>
-<div align="left">
+<div align="center">
   <a href="mailto:saikat.choudhury.official@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
