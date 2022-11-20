@@ -64,9 +64,9 @@ Some bulletpoints about me:
     
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=Saikat-98&theme=dracula&show_icons=true&hide_border=true"/>
   <br/>  <br/>
-   <img width=500 align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true"/>
+   <img width=300 align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true"/>
     <br/>  <br/>
-  <img width=500 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true"/> 
+  <img width=300 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true"/> 
 <br/>  <br/>
   
 <div>
