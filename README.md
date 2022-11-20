@@ -89,21 +89,21 @@ Some bulletpoints about me:
 </div>
 
 </td><td valign="top" width="30%">
-
+<div align="center">
 <a target="_blank" href="https://app.daily.dev/Saikat">
     <img src="https://api.daily.dev/devcards/e62924fd5807455791f6aff36a7bf54b.png?r=nww" 
          width="100%"/>
 </a>
+</div>
 </td></tr></table>  
 
 <br/>  
 
 
 
+<table><tr><td valign="top" width="60%">
 
-
-  
-<div>
+<div align="center">
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -137,4 +137,12 @@ Some bulletpoints about me:
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
- </div>
+</div>
+
+</td><td valign="top" width="40%">
+
+<a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true"/>
+  </a>
+
+</td></tr></table>  
