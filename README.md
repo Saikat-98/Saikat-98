@@ -62,11 +62,11 @@ Some bulletpoints about me:
 
 
 </td><td valign="top" width="45%">
-
+<br/>  
 <div align="center">
 <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" align="center" style="width: 100%" />
 </div>  
-
+<br/>  
 
 </td></tr></table>  
 
@@ -89,12 +89,14 @@ Some bulletpoints about me:
 </div>
 
 </td><td valign="top" width="35%">
+  <br/>  
 <div align="center">
 <a target="_blank" href="https://app.daily.dev/Saikat">
     <img src="https://api.daily.dev/devcards/e62924fd5807455791f6aff36a7bf54b.png?r=nww" 
          width="100%"/>
 </a>
 </div>
+  <br/>  
 </td></tr></table>  
 
 <br/>  
