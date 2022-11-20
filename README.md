@@ -35,11 +35,15 @@
       alt="Twitter"
     />
   </a>
+  <a target="_blank" href="https://app.daily.dev/Saikat">
+    <img src="https://api.daily.dev/devcards/e62924fd5807455791f6aff36a7bf54b.png?r=nww" 
+         width="300" 
+         align="right"/>
+</a>
 </div>
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 I'm currently grabbing experiences as a Specialist Programmer at [Infosys](https://www.infosys.com) and as a React JS mentor at [UAceit](https://uaceit.com).
 
@@ -51,11 +55,8 @@ Some bulletpoints about me:
 - Feel free love to [connect](https://topmate.io/saikat) with me.
 
 <br/>
-<a target="_blank" href="https://app.daily.dev/Saikat">
-    <img src="https://api.daily.dev/devcards/e62924fd5807455791f6aff36a7bf54b.png?r=nww" 
-         width="300" 
-         align="right"/>
-</a>
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <div>
  <br/>
