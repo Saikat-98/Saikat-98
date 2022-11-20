@@ -1,7 +1,7 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 <h2 align="center">Hi 👋, I'm Saikat Choudhury</h2>
-<h3 align="center">A full-stack developer 👨‍💻 working remotely since 2020 🚀, a tech-enthusiast and an explorer</h3>
+<h3 align="center">Full-stack developer 👨‍💻 working since 2020 🚀, tech-enthusiast and explorer</h3>
 
 <br/>
 <div align="center">
@@ -42,7 +42,7 @@
 
 
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="55%">
   
 I'm currently grabbing experiences as a Specialist Programmer at [Infosys](https://www.infosys.com) and a React JS mentor at [UAceit](https://uaceit.com). 
 
@@ -59,7 +59,7 @@ Some bulletpoints about me:
 - ⚡ Fun fact: I keep night shift swithed on at all times.
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="45%">
 
 <div align="center">
 <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" align="center" style="width: 100%" />
