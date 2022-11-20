@@ -93,7 +93,7 @@ Some bulletpoints about me:
   <br/>  
 <div align="center">
 <a target="_blank" href="https://app.daily.dev/Saikat">
-    <img src="https://api.daily.dev/devcards/e62924fd5807455791f6aff36a7bf54b.png?r=nvw" 
+    <img src="https://api.daily.dev/devcards/e62924fd5807455791f6aff36a7bf54b.png?r=cr1" 
          width="100%"/>
 </a>
 </div>
