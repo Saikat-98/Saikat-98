@@ -4,37 +4,42 @@
 <h3 align="center">Full-stack developer 👨‍💻 working since 2020 🚀, tech-enthusiast and explorer</h3>
 
 <br/>
+
+### Connect with me 
 <div align="center">
-  <a href="mailto:saikat.choudhury.official@gmail.com">
+  <a href="mailto:saikat.choudhury.official@gmail.com" target="_blank">
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail"
     />
   </a>
-  <a href="https://www.linkedin.com/in/saikat-c-3b9878110/">
+  <a href="https://www.linkedin.com/in/saikat-c-3b9878110/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
-   <a href="https://linktr.ee/saikat.choudhury">
+   <a href="https://linktr.ee/saikat.choudhury" target="_blank">
     <img
       src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"
       alt="LinkTree"
     />
   </a>
-  <a href="https://dev.to/saikat98">
+  <a href="https://dev.to/saikat98" target="_blank">
     <img
       src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"
       alt="Dev.to"
     />
   </a>
-  <a href="https://twitter.com/Saikat_c03">
+  <a href="https://twitter.com/Saikat_c03" target="_blank">
     <img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
       alt="Twitter"
     />
   </a>
+  <a href="https://instagram.com/saikat__choudhury" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=Instagram/>
+  </a>  
 </div>
 
 <br/>
@@ -50,7 +55,7 @@ Some bulletpoints about me:
 
 - 🔭 I’m currently working on Angular, React, TypeScript, SpringBoot, Java, Docker, Kubernetes.
 
-- 🌱  I've previously worked as a SDE intern in [hyperDart](https://hyperdart.com), a mentor and project-admin at [DevScript Winter of Code](https://devscript.tech/woc/). 
+- 🌱 I've previously worked as a SDE intern in [hyperDart](https://hyperdart.com), a mentor and project-admin at [DevScript Winter of Code](https://devscript.tech/woc/). 
 
 - 📱 I’m looking to collaborate on open-source projects.
 
@@ -69,7 +74,6 @@ Some bulletpoints about me:
 </td></tr></table>  
 
 <br/>  
-
 
 
 
