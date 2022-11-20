@@ -50,13 +50,11 @@ Some bulletpoints about me:
 - I’m looking to collaborate on open-source projects.
 - Feel free love to [connect](https://topmate.io/saikat) with me.
 
-<br/>
 <a target="_blank" href="https://app.daily.dev/Saikat">
     <img src="https://api.daily.dev/devcards/e62924fd5807455791f6aff36a7bf54b.png?r=nww" 
          width="300" 
          align="right"/>
 </a>
- <br/>  <br/>
 
 <div>
  <br/>
