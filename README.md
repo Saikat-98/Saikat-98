@@ -86,18 +86,13 @@ Some bulletpoints about me:
   <a target="_blank" href="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true">
    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true"/>
   </a>
-  <br/>  <br/>
-  <a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true"/>
-  </a>
 </div>
 
 </td><td valign="top" width="30%">
 
 <a target="_blank" href="https://app.daily.dev/Saikat">
     <img src="https://api.daily.dev/devcards/e62924fd5807455791f6aff36a7bf54b.png?r=nww" 
-         width="100%" 
-         align="right"/>
+         width="100%"/>
 </a>
 </td></tr></table>  
 
