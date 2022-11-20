@@ -43,7 +43,9 @@
 
 
 <table><tr><td valign="top" width="60%">
-I'm currently grabbing experiences as a Specialist Programmer at [Infosys](https://www.infosys.com) and as a React JS mentor at [UAceit](https://uaceit.com).
+  
+I'm currently grabbing experiences as a Specialist Programmer at [Infosys](https://www.infosys.com) and a React JS mentor at [UAceit](https://uaceit.com).
+
 <br/>  
 
 Some bulletpoints about me:
