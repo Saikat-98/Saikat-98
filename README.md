@@ -47,13 +47,13 @@
 <table><tr><td valign="top" width="55%">
   <br/>  
   
-I'm currently grabbing experiences as a Specialist Programmer at [Infosys](https://www.infosys.com) and a React JS mentor at [UAceit](https://uaceit.com). 
+I'm currently working as a Specialist Programmer at [Infosys](https://www.infosys.com). 
 
 Some bulletpoints about me:
 
 - 🔭 I’m currently working on Angular, React, TypeScript, SpringBoot, Java, Docker, Kubernetes.
 
-- 🌱 I've previously worked as a SDE intern in [hyperDart](https://hyperdart.com), a mentor and project-admin at [DevScript Winter of Code](https://devscript.tech/woc/). 
+- 🌱 I've previously worked as a SDE intern in [hyperDart](https://hyperdart.com), a mentor and project-admin at [DevScript Winter of Code](https://devscript.tech/woc/) and a React JS mentor at [UAceit](https://uaceit.com). 
 
 - 📱 I’m looking to collaborate on open-source projects.
 
