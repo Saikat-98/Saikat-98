@@ -42,23 +42,23 @@
 
 
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="60%">
 I'm currently grabbing experiences as a Specialist Programmer at [Infosys](https://www.infosys.com) and as a React JS mentor at [UAceit](https://uaceit.com).
 
 Some bulletpoints about me:
 
 - 🔭 I’m currently working on Angular, React, TypeScript, SpringBoot, Java, Docker, Kubernetes.
 
--🌱  I've previously worked as a SDE intern in [hyperDart](https://hyperdart.com), a mentor and project-admin at [DevScript Winter of Code](https://devscript.tech/woc/). 
+- 🌱  I've previously worked as a SDE intern in [hyperDart](https://hyperdart.com), a mentor and project-admin at [DevScript Winter of Code](https://devscript.tech/woc/). 
 
--📱 I’m looking to collaborate on open-source projects.
+- 📱 I’m looking to collaborate on open-source projects.
 
--❓ Feel free love to [connect](https://topmate.io/saikat) with me.
+- ❓ Feel free love to [connect](https://topmate.io/saikat) with me.
 
--⚡ Fun fact: I keep night shift swithed on at all times.
+- ⚡ Fun fact: I keep night shift swithed on at all times.
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="40%">
 
 <div align="center">
 <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" align="center" style="width: 100%" />
