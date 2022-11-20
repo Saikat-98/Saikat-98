@@ -56,7 +56,7 @@ Some bulletpoints about me:
          width="300" 
          align="right"/>
 </a>
-<br/>
+ <br/>  <br/>
 
 <div>
  <br/>
