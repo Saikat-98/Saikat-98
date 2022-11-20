@@ -45,6 +45,7 @@
 
 
 <table><tr><td valign="top" width="55%">
+  <br/>  
   
 I'm currently grabbing experiences as a Specialist Programmer at [Infosys](https://www.infosys.com) and a React JS mentor at [UAceit](https://uaceit.com). 
 
