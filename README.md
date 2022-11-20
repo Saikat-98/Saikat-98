@@ -111,7 +111,7 @@ Some bulletpoints about me:
 </td>
   
   <td valign="top" width="60%">
-<div align="center" style="margin: 10px 0px">
+<div align="center">
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
