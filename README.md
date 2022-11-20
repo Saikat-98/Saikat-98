@@ -46,8 +46,7 @@ I'm currently grabbing experiences as a Specialist Programmer at [Infosys](https
 Some bulletpoints about me:
 
 - I’m currently working on Angular, React, TypeScript, SpringBoot, Java, Docker, Kubernetes.
-- I've previously worked as a SDE intern in [hyperDart](https://hyperdart.com). 
-- I've previously worked as a mentor cum project - admin at [DevScript Winter of Code](https://devscript.tech/woc/).
+- I've previously worked as a SDE intern in [hyperDart](https://hyperdart.com), a mentor and project-admin at [DevScript Winter of Code](https://devscript.tech/woc/). 
 - I’m looking to collaborate on open-source projects.
 - Feel free love to [connect](https://topmate.io/saikat) with me.
 
