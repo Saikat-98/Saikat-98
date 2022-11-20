@@ -37,7 +37,7 @@
     />
   </a>
   <a href="https://instagram.com/saikat__choudhury" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=Instagram/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=Instagram/>
   </a>  
 </div>
 
