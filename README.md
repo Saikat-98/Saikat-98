@@ -74,19 +74,15 @@ Some bulletpoints about me:
 
 
 
-<br/>
-<a target="_blank" href="https://app.daily.dev/Saikat">
-    <img src="https://api.daily.dev/devcards/e62924fd5807455791f6aff36a7bf54b.png?r=nww" 
-         width="280" 
-         align="right"/>
-</a>
-<br/>  <br/>
 
-<div>
-  <a target="_blank" href="https://github-readme-stats.vercel.app/api?username=Saikat-98&theme=dracula&show_icons=true&hide_border=true">
+
+<table><tr><td valign="top" width="60%">
+
+<div align="center">
+<a target="_blank" href="https://github-readme-stats.vercel.app/api?username=Saikat-98&theme=dracula&show_icons=true&hide_border=true">
     <img width=500 src="https://github-readme-stats.vercel.app/api?username=Saikat-98&theme=dracula&show_icons=true&hide_border=true"/>
   </a>
-  <br/>  <br/>
+<br/>  <br/>
   <a target="_blank" href="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true">
    <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true"/>
   </a>
@@ -96,7 +92,21 @@ Some bulletpoints about me:
   </a>
 </div>
 
-<br/>  <br/>
+</td><td valign="top" width="40%">
+
+<a target="_blank" href="https://app.daily.dev/Saikat">
+    <img src="https://api.daily.dev/devcards/e62924fd5807455791f6aff36a7bf54b.png?r=nww" 
+         width="100%" 
+         align="right"/>
+</a>
+</td></tr></table>  
+
+<br/>  
+
+
+
+
+
   
 <div>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
