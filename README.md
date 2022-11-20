@@ -49,12 +49,15 @@ Some bulletpoints about me:
 - I've previously worked as a SDE intern in [hyperDart](https://hyperdart.com), a mentor and project-admin at [DevScript Winter of Code](https://devscript.tech/woc/). 
 - I’m looking to collaborate on open-source projects.
 - Feel free love to [connect](https://topmate.io/saikat) with me.
- <br/>
+
+<br/>
 <a target="_blank" href="https://app.daily.dev/Saikat">
     <img src="https://api.daily.dev/devcards/e62924fd5807455791f6aff36a7bf54b.png?r=nww" 
-         width="300" 
+         width="400" 
          align="right"/>
-  </a>
+</a>
+<br/>
+
 <div>
  <br/>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=Saikat-98&theme=dracula&show_icons=true&hide_border=true"/>
