@@ -35,15 +35,11 @@
       alt="Twitter"
     />
   </a>
-  <a target="_blank" href="https://app.daily.dev/Saikat">
-    <img src="https://api.daily.dev/devcards/e62924fd5807455791f6aff36a7bf54b.png?r=nww" 
-         width="300" 
-         align="right"/>
-</a>
 </div>
 
 <br/>
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 I'm currently grabbing experiences as a Specialist Programmer at [Infosys](https://www.infosys.com) and as a React JS mentor at [UAceit](https://uaceit.com).
 
@@ -55,18 +51,24 @@ Some bulletpoints about me:
 - Feel free love to [connect](https://topmate.io/saikat) with me.
 
 <br/>
+<a target="_blank" href="https://app.daily.dev/Saikat">
+    <img src="https://api.daily.dev/devcards/e62924fd5807455791f6aff36a7bf54b.png?r=nww" 
+         width="256" 
+         align="right"/>
+</a>
+<br/>
 
 <div>
-  <img alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-  </div>
- <br/>  <br/>
-    
-    
+ <br/>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=Saikat-98&theme=dracula&show_icons=true&hide_border=true"/>
   <br/>  <br/>
-   <img width=300 align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true"/>
+   <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat-98&theme=radical&hide_border=true"/>
     <br/>  <br/>
-  <img width=300 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true"/> 
+  <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true"/>
+    <img width=300 src=" https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/>
+ 
+</div>
+
 <br/>  <br/>
   
 <div>
