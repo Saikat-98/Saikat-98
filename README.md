@@ -102,7 +102,7 @@ Some bulletpoints about me:
 
 
 <table><tr>
-  <td valign="top" width="40%">
+  <td valign="top" width="45%">
 
 <a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true">
     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saikat-98&theme=bear&layout=compact&hide_border=true"/>
@@ -110,7 +110,7 @@ Some bulletpoints about me:
 
 </td>
   
-  <td valign="top" width="60%">
+  <td valign="top" width="55%">
 <div align="center">
   <img height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
