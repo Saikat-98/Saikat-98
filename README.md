@@ -5,7 +5,6 @@
 
 <br/>
 
-### Connect with me 
 <div align="center">
   <a href="mailto:saikat.choudhury.official@gmail.com" target="_blank">
     <img
@@ -43,8 +42,6 @@
 </div>
 
 <br/>
-
-
 
 
 <table><tr><td valign="top" width="55%">
